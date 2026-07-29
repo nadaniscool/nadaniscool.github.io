@@ -1,0 +1,10 @@
+*{
+margin: 0;
+box-sizing: border-box  
+
+}
+header{
+    padding: 1%
+    background-color: #36364F;
+    color: #1d5357;
+}
