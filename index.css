@@ -73,4 +73,17 @@ nav{
 
 
 }
-
+#container{
+    background-color: #d49f2c;
+width: 80w;
+margin: 0 auto;
+text-align: center;
+}
+#nav-main{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+main ing{
+    max-width: 40%;
+}
